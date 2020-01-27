@@ -19,7 +19,7 @@ class origin_distance{
     }
     public static void main(String[] args){
         int n=4;
-        ArrayList<List<Integer>> list=new ArrayList<>(n);
+        ArrayList<List<Integer>> list=new ArrayList<>();
         ArrayList<List<Integer>> res=new ArrayList<>();
         list.add(Arrays.asList(-1,0));
         list.add(Arrays.asList(1,1));

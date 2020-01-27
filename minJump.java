@@ -19,7 +19,7 @@ class minJump {
     } 
     public static void main(String[] args) 
     { 
-        int arr[] = { 1, 3, 6, 1, 0, 9 }; 
+        int arr[] = { 1, 3, 6, 1, 9 }; 
         System.out.println(prob(arr, arr.length)); 
     } 
 } 
